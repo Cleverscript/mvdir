@@ -1,0 +1,15 @@
+Source: mvdir
+Section: unknown
+Priority: optional
+Maintainer: Dokukin Vyacheslav Olegovich <toorrp4@gmail.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.4.1
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/mvdir
+#Vcs-Git: https://salsa.debian.org/debian/mvdir.git
+
+Package: mvdir
+Architecture: all
+Depends: ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
